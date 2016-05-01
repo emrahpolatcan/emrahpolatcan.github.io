@@ -1,0 +1,28 @@
+# Site settings
+title: Emrah Polatcan - Front-end Developer
+email: emrah.polatcn@gmail.com
+url: https://example.github.io
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#08A65F'
+
+# Footer settings
+footer: Emrah Polatcan
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://facebook.com/emrah.polatcn
+  - title: twitter
+    url: https://twitter.com/emrahpolatcan
+  - title: linkedin
+    url: https://www.linkedin.com/in/emrahpolatcan
+  - title: github
+    url: https://github.com/emrahpolatcan
+
+# Build settings
+markdown: kramdown
+permalink: pretty
